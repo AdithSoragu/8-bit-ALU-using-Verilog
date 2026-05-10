@@ -41,5 +41,4 @@ The ALU performs the following operations based on a selection line (Opcode):
 
 ---
 
-### 📝 Author
-**Adith Soragu**
+
