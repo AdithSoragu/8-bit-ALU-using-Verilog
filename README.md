@@ -40,5 +40,3 @@ The ALU performs the following operations based on a selection line (Opcode):
 5.  Run the simulation.
 
 ---
-
-
