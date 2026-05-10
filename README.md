@@ -17,7 +17,7 @@ The Arithmetic Logic Unit (ALU) is the core computational block of processors an
 ## 🛠️ Tools & Technologies
 * **Language:** Verilog HDL
 * **Simulation:** [EDA Playground](https://www.edaplayground.com/)
-* **Simulator Engines:** ModelSim / Icarus Verilog
+* **Simulator Engines:** ModelSim
 
 ---
 
