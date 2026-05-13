@@ -39,4 +39,5 @@ The ALU performs the following operations based on a selection line (Opcode):
 4.  Check the "Open EPWave after run" box to view results.
 5.  Run the simulation.
 
+Developed as part of the [adithprojects](https://github.com/AdithSoragu/adithprojects) collection.
 ---
