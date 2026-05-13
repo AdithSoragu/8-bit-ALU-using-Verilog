@@ -4,7 +4,7 @@ An **8-bit Arithmetic Logic Unit (ALU)** designed using Verilog HDL and simulate
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 The Arithmetic Logic Unit (ALU) is the core computational block of processors and digital systems. This project implements an 8-bit ALU capable of executing different arithmetic and logical operations based on control signals. 
 
 ### Key Features:
