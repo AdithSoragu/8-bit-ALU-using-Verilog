@@ -1,5 +1,11 @@
 # 8-bit ALU using Verilog
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-Verilog-blue">
+  <img src="https://img.shields.io/badge/Simulation-EDA Playground-green">
+  <img src="https://img.shields.io/badge/Status-Completed-success">
+</p>
+
 An **8-bit Arithmetic Logic Unit (ALU)** designed using Verilog HDL and simulated using EDA Playground. This project performs multiple arithmetic and logical operations on 8-bit input data and verifies the results through simulation waveforms.
 
 ---
